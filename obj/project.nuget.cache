@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VipBTYPgsY8EMkJr//oziv3Wr79/w4PE2hx3+6hRmrVVcFLCtj9up2C+5dSGyUuYdXz3+nmAaTcKKCSn7qbhJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Codersbay\\Source\\Repos\\aufgabe-7-linq-Magomed2023\\LinqExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Codersbay\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
